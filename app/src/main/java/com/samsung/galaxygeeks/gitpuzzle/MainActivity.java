@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         ImageView imageView1 = findViewById(R.id.imageView1);
-        imageView1.setImageResource(R.drawable.blue_gate);
+        imageView1.setImageResource(R.drawable.balcony);
 
         ImageView imageView2 = findViewById(R.id.imageView2);
         imageView2.setImageResource(R.drawable.more_balcony);
@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         imageView3.setImageResource(R.drawable.roof);
 
         ImageView imageView4 = findViewById(R.id.imageView4);
-        imageView4.setImageResource(R.drawable.blue_building);
+        imageView4.setImageResource(R.drawable.estaciores);
 
         ImageView imageView5 = findViewById(R.id.imageView5);
         imageView5.setImageResource(R.drawable.roof);
