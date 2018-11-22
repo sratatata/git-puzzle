@@ -12,22 +12,22 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         ImageView imageView1 = findViewById(R.id.imageView1);
-        imageView1.setImageResource(R.drawable.blue_building);
+        imageView1.setImageResource(R.drawable.balcony);
 
         ImageView imageView2 = findViewById(R.id.imageView2);
         imageView2.setImageResource(R.drawable.more_balcony);
 
         ImageView imageView3 = findViewById(R.id.imageView3);
-        imageView3.setImageResource(R.drawable.roof);
+        imageView3.setImageResource(R.drawable.blue_building);
 
         ImageView imageView4 = findViewById(R.id.imageView4);
-        imageView4.setImageResource(R.drawable.blue_gate);
+        imageView4.setImageResource(R.drawable.estaciores);
 
         ImageView imageView5 = findViewById(R.id.imageView5);
-        imageView5.setImageResource(R.drawable.balcony);
+        imageView5.setImageResource(R.drawable.roof);
 
         ImageView imageView6 = findViewById(R.id.imageView6);
-        imageView6.setImageResource(R.drawable.blue_building);
+        imageView6.setImageResource(R.drawable.blue_gate);
 
         ImageView imageView7 = findViewById(R.id.imageView7);
         imageView7.setImageResource(R.drawable.left_fender);
